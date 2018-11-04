@@ -6,11 +6,8 @@
             "facebook": "",
             "gitHub": "https://github.com/RomeroGabriel",
             "linkedin": "https://www.linkedin.com/in/gabriel-romero-de-souza-b2343815b/"
-        }
-    },
-    
-    "foto":{
-        "link": ""
+        },
+        "foto": "https://romerogabriel.github.io/API-Curriculo/RomeroGabriel.io/img/foto.jpg"
     },
 
     "interesses":[
