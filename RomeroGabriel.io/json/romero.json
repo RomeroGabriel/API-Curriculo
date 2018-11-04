@@ -4,8 +4,8 @@
         "age": 20,
         "redes":{
             "facebook": "",
-            "twitter": "",
-            "gitHub": ""
+            "gitHub": "https://github.com/RomeroGabriel",
+            "linkedin": "https://www.linkedin.com/in/gabriel-romero-de-souza-b2343815b/"
         }
     },
     
@@ -13,13 +13,17 @@
         "link": ""
     },
 
-    "interesses":{
-
-    },
+    "interesses":[
+        "Desenvolvimento WEB",
+        "Mestrado em IA",
+        "Professor universitário"
+    ],
     
-    "idiomas":{
-
-    },
+    "idiomas":[
+        { "idioma": "Português", "nivel": "Fluente" },
+        { "idioma": "Inglês", "nivel": "Intermediário" },
+        { "idioma": "Espanhol", "nivel": "Básico" }
+    ],
 
     "formacao":{
 
