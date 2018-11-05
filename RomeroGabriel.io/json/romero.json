@@ -22,13 +22,15 @@
         { "idioma": "Espanhol", "nivel": "Básico" }
     ],
 
-    "formacao":{
+    "formacao":[
+        "Ensino Medio: ETEC Antonio Devisate",
+        "Graduação: Engenharia de Software UTFPR-CP cursando"   
+    ],
 
-    },
-
-    "atividades":{
-
-    },
+    "atividades":[
+        "Participação do grupo ELLP",
+        "Bolsa de Iniciação científica na aréa de teste WEB"
+    ],
 
     "habilidades":{
 
