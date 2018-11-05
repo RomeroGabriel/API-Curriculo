@@ -46,9 +46,27 @@
         { "image": "https://romerogabriel.github.io/API-Curriculo/RomeroGabriel.io/img/ww.jpg", "title": "WhastsApp terá em nova versão respostas privadas em grupo", "content": "Na nova versão beta, aplicativo deixara usuários responderem de forma privada em grupos." }
     ],
 
-    "portfolio":{
-
-    },
+    "portfolio":[
+        {
+            "title": "Mural Eletrônico UTFPR-CP",
+            "description":"Desenvolvimento de um mural eletrônico para a UTFPR-CP divulgas os eventos que acontecem na instituição.",
+            "technology": ["Java", "MYSQL"],
+            "where": "Disciplina de Oficina 1"
+        },
+        {
+            "title": "Sistema de ponto",
+            "description":"Desenvolvimento de um sistema de pontos para empresas.",
+            "technology": ["Angular 2", "MongoDB", "Bootstrap", "Javascript"],
+            "where": "Empresa Yankton"
+        },
+        {
+            "title": "Bolsa científica",
+            "description":"Desenvolvimento de um roboWEB e um classificador de widgets para avaliação de acessibilidade em sistemas WEB.",
+            "technology": ["Java", "Selenium", "WebDriver", "Javascript", "MutationObserver"],
+            "where": "UTFPR-CP"
+        }
+        
+    ],
 
     "biografias":{
         "mini": "",
