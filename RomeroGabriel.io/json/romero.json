@@ -69,8 +69,8 @@
     ],
 
     "MaisInformacoes":{
-        "mini": "",
-        "completa": "",
+        "bioCompleta": "aaaaaaa",
+        "resenhaExperiencia": "",
         "contatoProfissao": ""
     }
 }
