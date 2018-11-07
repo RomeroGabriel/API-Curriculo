@@ -12,7 +12,8 @@
     "interesses": [
         "Desenvolvimento WEB",
         "Mestrado em IA",
-        "Professor universitário"
+        "Professor universitário",
+        "Teste automatizados"
     ],
     "idiomas": [
         {
@@ -37,11 +38,11 @@
         "Bolsa de Iniciação científica na aréa de teste WEB"
     ],
     "habilidades": [
-        "Aprender Rápido",
-        "Boa comunicação",
-        "Bom em grupo",
-        "Cumprir prazos",
-        "Atencioso"
+        "C", "Scrum", "SQL", "CSS", "Bootstrap",
+        "MongoDB", "Selenium",
+        "MySQL", "JavaScript",
+        "Node.js",
+        "Linux"
     ],
     "blog": [
         {
@@ -98,17 +99,6 @@
                 "MutationObserver"
             ],
             "where": "UTFPR-CP"
-        }
-    ],
-    "MaisInformacoes": [
-        {
-            "bioCompleta": "aaaaaaa"
-        },
-        {
-            "resenhaExperiencia": ""
-        },
-        {
-            "contatoProfissao": ""
         }
     ]
 }
